@@ -20,6 +20,7 @@
   -->
 
 [Syllabus](pages/CS3035-fall-2020-syllabus.md)
+[Activities and Dates](pages/CS3035-fall-2020-activities-and-dates.md)
 [Software Setup](pages/CS3035-software-setup.md)
 
 <!-- A more complex navigation example: ----------------------------------------
