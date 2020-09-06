@@ -21,23 +21,32 @@ This course is a complement to:
 
 [CS 2043](http://www.unb.ca/academics/calendar/undergraduate/current/frederictoncourses/computer-science/cs-2043.html) or [CS 1083](https://www.unb.ca/academics/calendar/undergraduate/current/frederictoncourses/computer-science/cs-1083.html) and [MAAC 3102](https://www.unb.ca/academics/calendar/undergraduate/current/frederictoncourses/mediaartsandcultures/advancedlevel/maac-3102.html).
 
-## Time and Location
+## Class Time and Location
 
-- **Class Time**: Tues. and Thurs. at 08:30AM-09:50AM
-- **Location**: Online
-
+- **Class Time**: Tues. and Thurs. at 08:45AM-09:50AM
+- **Location**: On [Teams](https://teams.microsoft.com/l/channel/19%3a9e00c29c80774584bfd7136a652bb830%40thread.tacv2/Class%2520Meetings%2520(Tue%2520and%2520Thu%2520%2540%25208%253B45%2520to%25209%253B50am)?groupId=eb132915-269f-4304-ad54-5938ab0608a5&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7)
+  
 ## Instructor and Contact
 
+- For more detail on Contact please see the [contact details on the course website](CS3035-fall-2020-course-activities.md).
 - **Instructor:** Dr. Scott Bateman
-- **Office:** Home
+- **Office:** @Home
 - **Office Hours:**
-  - Appointments are welcomed and encouraged. We should also have ample time to chat during class times, since lectures will be pre-recorded.
-- **Email:** scottb@unb.ca
+  - Appointments are welcomed and encouraged, and can be set up via email. We should also have ample time to chat during class times, since lectures will be pre-recorded.
+- **Email:** scottb at sign unb.ca
 - **Web:** <http://hci.cs.unb.ca>
+
+## Course Work and Marking Scheme (Tentative)
+
+- Individual Assignments (5): 40%
+- Mini-Project (1): 10%
+- Weekly Quizzes/Challenges (During classtimes) (~8-10): 20%
+- Tests (During classtimes) (2): 20%
+- Check-in/one-on-one evaluation: 10%
 
 ## Text Books
 
-There is no official textbook for this course. Course slides, example code and online readings will be provided. Students are strongly encouraged to take notes as study aids.
+There is no official textbook for this course. Course slides, pre-recorded lectures, example code and online readings will be provided. Students are strongly encouraged to take notes as study aids.
 
 ### Good Tutorials
 
@@ -53,38 +62,13 @@ There is no official textbook for this course. Course slides, example code and o
 - [JavaFX 8 API](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
 - [JavaFX CSS Reference Guide](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/doc-files/cssref.html)
 
-## Course Work and Marking Scheme (Tentative)
-
-- Individual Assignments (5): 35%
-- Mini-Project (1): 10%
-- Weekly Quizzes/Challenges (~10): 25%
-- Tests: 20%
-- Check-in/one-on-one evaluation: 10%
-
-## Planned Deliverable Due Dates and Other Important Dates (subject to change)
-
-| Date | Item  |
-|------|-------|
-| 09/18| Assignment #1 |
-| 10/02| Assignment #2 |
-| 10/16| First One-on-One to be Completed|
-| 10/16| Assignment #3 |
-| 10/19| Test #1 |
-| 10/30| Assignment #4 |
-| 11/02| Last Day to Withdraw|
-| 10/29| Midterm |
-| 11/13| Assignment #5 |
-| 11/18| Second One-on-One to be Completed|
-| 11/24| Test #2 |
-| 12/10| Last Class - Mini-project Due |
-
 ## Class Policies
 
 All students must be registered in order to attend lectures and receive credit for this course.
 
 ### Attendance
 
-Attendance is important but not enforced. No attendance will be taken, however, attendance will be taken into account considerations and when accommodations need to be made about course content. Your instructor appreciates being notified about your absences in advance, when a valid excuse is provided (e.g., sick, medical appointment, etc.).
+Attendance during the scheduled class time is important but not directly enforced. Some planned course activities and assessments will require your attendence during the scheduled meeting times, and will not be offerred at other times. So your attendence will be reflected in your grade. Other class times will be used for demonstrations and question and answer times.
 
 ### Technology
 
@@ -100,11 +84,11 @@ See above (Late Assignments)
 
 ### Final Exam Scheduling
 
-The Registrar schedules all final examinations, including deferred and supplemental examinations. Students are advised not to make travel arrangements for the exam period until the official exam schedule has been posted.
+There will be no "final exam" in this course. All activities will be completed during class time.  
 
-### Missed Exams
+### Missed Tests and Other In-Class Activities
 
-If an exam is missed, students must contact the instructor and registrar’s office as soon as possible.
+If a test, quiz or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feesible.
 
 ## Academic Offences
 

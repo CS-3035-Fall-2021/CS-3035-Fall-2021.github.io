@@ -6,6 +6,7 @@
 - If at all possible install all course software on your own computer
 - Otherwise, install software so you can get access to a virtual machine containing all of the course software
 - All course software is free and should run on Windows, Mac and Linux
+- We also use git but the version built into IntelliJ will be sufficient
 
 ## Overview
 
@@ -52,6 +53,10 @@ Both of these options are a little awkward and I would recommend installing the 
 
 - Option 1: [Install Virtual Box](https://www.virtualbox.org/wiki/Downloads) and [download the VM for CS3035](https://www.dropbox.com/s/ucrm12ikbkqpl89/fcs-vm-cs3035.ova?dl=1).
 - Option 2: [Instructions for using the VM through Remote Desktop](https://www.cs.unb.ca/help/remote-lab-gui-access.shtml) - Follow the instructions and find the CS3035 VM.
+
+## Git
+
+There is a lot of software available to assist in working with Git. Our use should be relatively straightforward and so the version built into IntelliJ will be the one that is supported for the course.
 
 ## More info on Java Versions
 
