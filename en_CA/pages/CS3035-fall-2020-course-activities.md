@@ -9,7 +9,7 @@
 
 ## Class Times
 
-**8:45am - 9:50am. Tuesday and Thursday** on [Teams](https://teams.microsoft.com/l/channel/19%3a9e00c29c80774584bfd7136a652bb830%40thread.tacv2/Class%2520Meetings%2520(Tue%2520and%2520Thu%2520%2540%25208%253B45%2520to%25209%253B50am)?groupId=eb132915-269f-4304-ad54-5938ab0608a5&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7)
+**8:45am - 9:50am. Tuesday and Thursday** on [Teams](https://teams.microsoft.com/l/channel/19%3a9e00c29c80774584bfd7136a652bb830%40thread.tacv2/Class%2520Meetings%2520%28Tue%2520and%2520Thu%2520%2540%25208%253B45%2520to%25209%253B50am%29?groupId=eb132915-269f-4304-ad54-5938ab0608a5&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7)
 
 Our class time is officially scheduled to be 8:30am to 9:50am Tuesday's and Thursday's throughout the semester, but since a big portion of the class is flexible due to being pre-recorded, we start a little later at 8:45am, and we may not always use the entire time.
 
