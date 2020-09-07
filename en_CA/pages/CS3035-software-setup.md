@@ -29,7 +29,9 @@ You have two options for getting setup for the course. The much preferred option
 
 ### Install Scene Builder
 
-#### Option 1
+There are two general options for getting Scene Builder. Option 1 will be the most convenient for both installation and use, but you are able to do both.
+
+#### Scene Builder Option 1
 
 - Scene Builder is a JavaFX app for building JavaFX interfaces that can be integrated into IntelliJ
 - The easiest way to to do this is to create a new JavaFX project and download it automatically
@@ -40,23 +42,24 @@ You have two options for getting setup for the course. The much preferred option
   - At the bottom of the editor window click the "SceneBuilder" tab
   - Click the "Download Scene Builder Kit" link
 
-#### Option 2
+#### Scene Builder Option 2
 
 - This is not needed if you did the above but you can also [Download Scene Builder as a standalone app for Java 8](https://gluonhq.com/products/scene-builder/#download)
 - You can then manually associate your Scene Builder executable with IntelliJ: ```Settings → Languages & Frameworks → JavaFX → Path to SceneBuilder```
 
 ## Alternative Option: Running an FCS VM
 
-The Java VM has the big advantage that all the software has already been installed for you. You can either download the VM and run it locally on your machine. Or, you can actually run the VM on an FCS computer by using a Remote Desktop session.
+The Java VM has the big advantage that all the software has already been installed for you, and if you have other conflicting software from another class, this will allow you to avoid any problems. A VM has been prepared, which you can download and run on your machine.
 
-Both of these options are a little awkward and I would recommend installing the software on your own computer if at all possible.
+This is still a little awkward, so I would recommend installing the software (as described above) on your own computer if at all possible.
 
-- Option 1: [Install Virtual Box](https://www.virtualbox.org/wiki/Downloads) and [download the VM for CS3035](https://www.dropbox.com/s/ucrm12ikbkqpl89/fcs-vm-cs3035.ova?dl=1).
-- Option 2: [Instructions for using the VM through Remote Desktop](https://www.cs.unb.ca/help/remote-lab-gui-access.shtml) - Follow the instructions and find the CS3035 VM.
+- [Install Virtual Box](https://www.virtualbox.org/wiki/Downloads) on your own system
+- [Download the VM for CS3035](https://www.dropbox.com/s/ucrm12ikbkqpl89/fcs-vm-cs3035.ova?dl=1).
+- Open the VM file in Virtual Box
 
 ## Git
 
-There is a lot of software available to assist in working with Git. Our use should be relatively straightforward and so the version built into IntelliJ will be the one that is supported for the course.
+There is a lot of software available to assist in working with Git. Our use should be relatively straightforward and so the version built into IntelliJ will be the one that is supported for the course. See [Using Git](pages/../CS3035-assignments-with-git.md)
 
 ## More info on Java Versions
 
