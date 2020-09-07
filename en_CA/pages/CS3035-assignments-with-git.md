@@ -66,7 +66,7 @@ Assignments will be hosted and submitted on GitHub. You will need to follow the 
   - Click "Push"
 - Finally, visit your repo on GitHub to make sure your changes have been pushed.
 
-### Challenge 1 - Practicing Submitting Assignments
+## Challenge 1 - Practicing Submitting Assignments
 
 Your first weekly challenge is to get practice with starting an assignment on GitHub and submitting your changes to the repo on GitHub to submit your Challenge assignment.
 
@@ -79,4 +79,4 @@ Your first weekly challenge is to get practice with starting an assignment on Gi
 - Select your repo from the list and click Clone
 - Find and edit your readme.md file
 - Follow the steps above for ***commiting*** your changes and ***pushing*** them to GitHub
-- Verify that your updated readme.md file has been updated 
+- Verify that your updated readme.md file has been updated on GitHub
