@@ -31,9 +31,8 @@ Remember to pull the code from the examples repo often
 
 To help you keep up to date, you can watch the examples repository... that way you can get frequent updates:
 
-```Visit https://github.com/CS-3035-Fall-2020/CS-3035-example-code
-Click 'watch' in the top right hand corner
-```
+- Visit <https://github.com/CS-3035-Fall-2020/CS-3035-example-code>
+- Click 'watch' in the top right hand corner
 
 #### Pull Changes
 
@@ -54,7 +53,7 @@ Assignments will be hosted and submitted on GitHub. You will need to follow the 
 - Choose GitHub and make sure you are logged in
 - You should be able to select your repo for the assignment from your list or search for it
 - Select the repo and click Clone
-- Once you have completed your changes. You need to commit all of them. 
+- Once you have completed your changes. You need to commit all of them.
 - To ***commit***:
   - Right click on the top level directory of your project in your "Project" sidebar
   - Click Git -> Commit Directory...
