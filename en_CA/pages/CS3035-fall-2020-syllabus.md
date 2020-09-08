@@ -70,10 +70,6 @@ All students must be registered in order to attend lectures and receive credit f
 
 Attendance during the scheduled class time is important but not directly enforced. Some planned course activities and assessments will require your attendance during the scheduled meeting times, and will not be offered at other times. So your attendance will be reflected in your grade. Other class times will be used for demonstrations and question and answer times.
 
-### Technology
-
-We will negotiate a technology policy on the first day of class, which will be enforced (or not) by the professor. It is important to recognize that your technology use can distract you and distract others. Your instructor believes that technology use during lectures is probably detrimental to your learning and others learning in most situations.
-
 ### Late Assignments
 
 No late assignments will be accepted or marked without communication with a valid excuse well in advance of the due date of the assignment, unless a valid medical excuse and documentation is provided.
