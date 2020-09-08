@@ -16,7 +16,9 @@ You have two options for getting setup for the course. The much preferred option
 
 ### Minimum Hardware Requirements
 
-- The Faculty of Computer Science has made recommendations about the required
+- The Faculty of Computer Science has made recommendations about the minimum requirements for your coursework.
+- These are also appropriate and sufficient for this course.
+- Please see: <https://www.cs.unb.ca/help/students/recommended-hardware.shtml>
 
 ### Install Java 8
 
