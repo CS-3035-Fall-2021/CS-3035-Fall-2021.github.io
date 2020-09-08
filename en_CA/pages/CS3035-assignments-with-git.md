@@ -2,11 +2,13 @@
 
 We will be using Git for accessing example code and submitting assignments on Github. Git is a very powerful tool, but the way we will use it for the course will be quite simple. In all cases, repositories will be created for you and you will "clone" the repositories to get started.
 
-You will need a Github account if you don't already have one to perform the steps below.
+You will need a [GitHub account](https://github.com/join) if you don't already have one to perform the steps below, and to submit assignments and challenges in the course.
+
+We ask that you follow these below carefully, and only stray from them if you know what you are doing. There are lots of great git learning resources online like the free [Pro Git Book](https://git-scm.com/book/en/v2).
 
 ## Example Code
 
-To access example code for the course there is a repository setup on the course's [Github organization page](https://CS-3035-Fall-2020.github.io). This repository will provide you with examples to get you started and that we have coverd in class. The code in the repository will grow and change over time, so you will want to regularly "pull" changes and new code, so that you have the latest versions.
+To access example code for the course there is a repository setup on the course's [Github organization page](https://CS-3035-Fall-2020.github.io). This repository will provide you with examples to get you started and that we have covered in class. The code in the repository will grow and change over time, so you will want to regularly "pull" changes and new code, so that you have the latest versions.
 
 ### Accessing Example Code in IntelliJ
 
@@ -45,7 +47,7 @@ Assignments will be hosted and submitted on GitHub. You will need to follow the 
 ***Assignment instructions*** will always be found in the assignment repository's readme.md file.
 
 - For assignments you will be provided a repository invitation link.
-- You will follow the link, login to GitHub (if not already loggedin) and accept the invitation.
+- You will follow the link, login to GitHub (if not already logged in) and accept the invitation.
 - This will create a new repository for you.
 - A link will be provided for a repository that has been automatically created on your account
 - Follow the link to view your Repo
@@ -72,10 +74,10 @@ Your first weekly challenge is to get practice with starting an assignment on Gi
 **This challenge is due on Tuesday, September 15 at 4pm.**
 
 - Review the instructions for [setting up your development software](CS3035-software-setup.md) and the instructions above for submitting assignments.
-- Accept the Challenge invitation using this link: [Inivitation to Challenge 1](https://classroom.github.com/a/kCfudltV)
+- Accept the Challenge invitation using this link: [Invitation to Challenge 1](https://classroom.github.com/a/kCfudltV)
 - From IntelliJ create a "New Project from Version Control" using GitHub
 - Search and/or Select Challenge-1-Your_GitHub_Username from the list of repositories
 - Select your repo from the list and click Clone
 - Find and edit your readme.md file
-- Follow the steps above for ***commiting*** your changes and ***pushing*** them to GitHub
+- Follow the steps above for ***committing*** your changes and ***pushing*** them to GitHub
 - Verify that your updated readme.md file has been updated on GitHub

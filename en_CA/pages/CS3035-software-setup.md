@@ -14,6 +14,10 @@ You have two options for getting setup for the course. The much preferred option
 
 ## Preferred Option: Installing Software for your own computer
 
+### Minimum Hardware Requirements
+
+- The Faculty of Computer Science has made recommendations about the required
+
 ### Install Java 8
 
 - Download and install the latest version of the Oracle Java 8 SDK: [Oracle 8 JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)

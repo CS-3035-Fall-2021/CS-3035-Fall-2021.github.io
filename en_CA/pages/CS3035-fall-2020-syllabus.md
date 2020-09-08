@@ -10,7 +10,7 @@ Basic approaches and techniques for implementing human-computer interfaces. Basi
 
 ### More Details
 
-This course provides important background building graphical user interfaces, with some general background on design. We will cover conceptual and pratical aspects of many of the aspects of GUI design and implementation. This year we will focus on coding in JavaFX, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits including Python/Tkinter, HTML/CSS/Javascript, and Android/Java.
+This course provides important background building graphical user interfaces, with some general background on design. We will cover conceptual and practical aspects of many of the aspects of GUI design and implementation. This year we will focus on coding in JavaFX, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits including Python/Tkinter, HTML/CSS/JavaScript, and Android/Java.
 
 This course is a complement to:
 
@@ -40,8 +40,8 @@ This course is a complement to:
 
 - Individual Assignments (5): 40%
 - Mini-Project (1): 10%
-- Weekly Quizzes/Challenges (During classtimes) (~8-10): 20%
-- Tests (During classtimes) (2): 20%
+- Weekly Quizzes/Challenges (During class times) (~8-10): 20%
+- Tests (During class times) (2): 20%
 - Check-in/one-on-one evaluation: 10%
 
 ## Text Books
@@ -68,11 +68,11 @@ All students must be registered in order to attend lectures and receive credit f
 
 ### Attendance
 
-Attendance during the scheduled class time is important but not directly enforced. Some planned course activities and assessments will require your attendence during the scheduled meeting times, and will not be offerred at other times. So your attendence will be reflected in your grade. Other class times will be used for demonstrations and question and answer times.
+Attendance during the scheduled class time is important but not directly enforced. Some planned course activities and assessments will require your attendance during the scheduled meeting times, and will not be offered at other times. So your attendance will be reflected in your grade. Other class times will be used for demonstrations and question and answer times.
 
 ### Technology
 
-We will negotiate a technology policy on the first day of class, which will be enforced (or not) by the professor. It is important to recognize that your technolgy use can distract you and distract others. Your instructor believes that technology use during lectures is probably detrimental to your learning and others learning in most situations.
+We will negotiate a technology policy on the first day of class, which will be enforced (or not) by the professor. It is important to recognize that your technology use can distract you and distract others. Your instructor believes that technology use during lectures is probably detrimental to your learning and others learning in most situations.
 
 ### Late Assignments
 
@@ -88,7 +88,7 @@ There will be no "final exam" in this course. All activities will be completed d
 
 ### Missed Tests and Other In-Class Activities
 
-If a test, quiz or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feesible.
+If a test, quiz or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feasible.
 
 ## Academic Offences
 
