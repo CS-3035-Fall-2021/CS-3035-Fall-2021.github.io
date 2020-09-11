@@ -14,14 +14,13 @@ To access example code for the course there is a repository setup on the course'
 
 In IntelliJ do the following:
 
-- ```File -> New -> Project From Version Control -> GitHub```
-- Enter ```CS-3035-Fall-2020/CS-3035-example-code``` for the project
-- Login to GitHub and authorize IntelliJ in GitHub (a page will be opened in your browser).
+- ```File -> New -> Project From Version Control -> Repository URL```
+- Enter ```https://github.com/CS-3035-Fall-2020/CS-3035-example-code.git``` for the URL
 - You can open a new window for the CS3035-example-code project or you can open in the same window (which closes your current project)
 
 #### Running Examples
 
-- Each example has a directory (or package) in the ```src```
+- Each example has a directory (or package) in the ```src``` directory
 - For each example you will generally find a Main class that initializes the app
 - You can run any app by ```right click it's Main class -> left click "Run Main.main()"```
 
