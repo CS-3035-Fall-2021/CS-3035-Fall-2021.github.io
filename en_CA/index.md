@@ -14,5 +14,6 @@ This website is meant to act as the main source for all course related details.
 ### Links to Other Course Resources
 
 - [Course site on MS Teams](https://teams.microsoft.com/l/team/19%3a79bf8ef99c28407189ff0772dc51fbff%40thread.tacv2/conversations?groupId=eb132915-269f-4304-ad54-5938ab0608a5&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7) - used for lectures, communications, sharing videos, slides and other files.
-- [Course site on Desire2Learn Brightspace](https://lms.unb.ca/d2l/home/175291) - used for taking quizzes and tests.
+- [Course site on D2L Brightspace](https://lms.unb.ca/d2l/home/175291) - links to everything! And, used for taking quizzes and tests.
 - [Course GitHub Organization](https://github.com/CS-3035-Fall-2020) - used for submitting assignments, sharing code examples, and hosting this site.
+- [Course Videos on Streams](https://web.microsoftstream.com/channel/36e47faf-0ea9-432c-b2a8-d6969bad61a6) - lectures, class meeting/tutorial recording, and extra how-to help videos.
