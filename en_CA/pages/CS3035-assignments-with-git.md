@@ -6,16 +6,26 @@ You will need a [GitHub account](https://github.com/join) if you don't already h
 
 We ask that you follow these below carefully, and only stray from them if you know what you are doing. There are lots of great git learning resources online like the free [Pro Git Book](https://git-scm.com/book/en/v2).
 
+## Create a new account specifically for this course
+
+You are required to have a Github account with a specific username for this course. Failure to comply will mean that your work will not be graded. Even if you already have a Github account, you must change the name of that account to comply to the naming convention below or create a new account with the specific username.
+
+Your username must be **your unb login id** + UNB3035.
+
+For example, scottbUNB3035 would be Scott Bateman's account for the course.
+
+You can create a [new Github account here](https://github.com/signup).  
+
 ## Example Code
 
-To access example code for the course there is a repository setup on the course's [Github organization page](https://CS-3035-Fall-2020.github.io). This repository will provide you with examples to get you started and that we have covered in class. The code in the repository will grow and change over time, so you will want to regularly "pull" changes and new code, so that you have the latest versions.
+To access example code for the course there is a repository setup on the course's [Github organization page](https://CS-3035-Fall-2021.github.io). This repository will provide you with examples to get you started and that we have covered in class. The code in the repository will grow and change over time, so you will want to regularly "pull" changes and new code, so that you have the latest versions.
 
 ### Accessing Example Code in IntelliJ
 
 In IntelliJ do the following:
 
 - ```File -> New -> Project From Version Control -> Repository URL```
-- Enter ```https://github.com/CS-3035-Fall-2020/CS-3035-example-code.git``` for the URL
+- Enter ```https://github.com/CS-3035-Fall-2021/CS-3035-example-code.git``` for the URL
 - You can open a new window for the CS3035-example-code project or you can open in the same window (which closes your current project)
 
 #### Running Examples
@@ -32,7 +42,7 @@ Remember to pull the code from the examples repo often
 
 To help you keep up to date, you can watch the examples repository... that way you can get frequent updates:
 
-- Visit <https://github.com/CS-3035-Fall-2020/CS-3035-example-code>
+- Visit <https://github.com/CS-3035-Fall-2021/CS-3035-example-code>
 - Click 'watch' in the top right hand corner
 
 #### Pull Changes
@@ -65,18 +75,3 @@ Assignments will be hosted and submitted on GitHub. You will need to follow the 
   - or, ```VCS -> Git -> Push```
   - Click "Push"
 - Finally, visit your repo on GitHub to make sure your changes have been pushed.
-
-## Challenge 1 - Practicing Submitting Assignments
-
-Your first weekly challenge is to get practice with starting an assignment on GitHub and submitting your changes to the repo on GitHub to submit your Challenge assignment.
-
-**This challenge is due on Tuesday, September 15 at 4pm.**
-
-- Review the instructions for [setting up your development software](CS3035-software-setup.md) and the instructions above for submitting assignments.
-- Accept the Challenge invitation using this link: [Invitation to Challenge 1](https://classroom.github.com/a/kCfudltV)
-- From IntelliJ create a "New Project from Version Control" using GitHub
-- Search and/or Select Challenge-1-Your_GitHub_Username from the list of repositories
-- Select your repo from the list and click Clone
-- Find and edit your readme.md file
-- Follow the steps above for ***committing*** your changes and ***pushing*** them to GitHub
-- Verify that your updated readme.md file has been updated on GitHub

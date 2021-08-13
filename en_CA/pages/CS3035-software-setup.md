@@ -26,10 +26,10 @@ You have two options for getting setup for the course. The much preferred option
   - see below for why we should use Java version 8
 - On Windows, it will also be a good idea to set your JAVA_HOME environment variable: [instructions for setting JAVA_HOME on Windows](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
 
-### Install IntelliJ
+### Install IntelliJ Community Edition
 
 - We will be using IntelliJ for writing Code, and there are a number of helpful extensions that should be installed
-- [Download and Install IntelliJ Community Edition 12 LTS](https://www.jetbrains.com/idea/download/#section=windows)
+- [Download and Install IntelliJ Community Edition 12 LTS](https://www.jetbrains.com/idea/download/)
 - Once you install you can configure how you like
 - But there is an additional step below for adding in Scene Builder
 
