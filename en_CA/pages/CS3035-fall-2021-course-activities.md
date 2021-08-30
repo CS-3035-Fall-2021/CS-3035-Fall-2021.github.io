@@ -9,6 +9,7 @@
 
 ## Class Times
 
+See [class times on the course outline.](https://cs-3035-fall-2021.github.io/en_CA/#!pages/CS3035-fall-2021-syllabus.md#Class_Time_and_Location)
 
 ## Course Work Details
 
