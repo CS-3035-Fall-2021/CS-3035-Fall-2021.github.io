@@ -2,17 +2,14 @@
 
 ## TL;DR
 
-- We will be using Java 16 with IntelliJ
-- Install all course software on your own computer
+- We will be using Java 8 with IntelliJ
+- If at all possible install all course software on your own computer
+- Otherwise, install software so you can get access to a virtual machine containing all of the course software
 - All course software is free and should run on Windows, Mac and Linux
 - We also use git but the version built into IntelliJ will be sufficient
-- Our second class will be used to demonstrate software setup
 
-## Overview
 
-We will install the latest versions of the tools available as of the first day of class. 
-
-## Preferred Option: Installing Software for your own computer
+## Installing Software for your own computer
 
 ### Minimum Hardware Requirements
 
@@ -20,18 +17,19 @@ We will install the latest versions of the tools available as of the first day o
 - These are also appropriate and sufficient for this course.
 - Please see: <https://www.cs.unb.ca/help/students/recommended-hardware.shtml>
 
-### Install IntelliJ IDEA Edu
+### Install Java 8
 
-- We will be using IntelliJ IDEA Edu for writing Code
-- [Download and Install IntelliJ IDEA Edu](https://www.jetbrains.com/edu-products/download/#section=idea)
-- Once you install you can configure the IDE how you like
+- Download and install the latest version of the Oracle Java 8 SDK: [Oracle 8 JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+  - see below for why we should use Java version 8
+- On Windows, it will also be a good idea to set your JAVA_HOME environment variable: [instructions for setting JAVA_HOME on Windows](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
+
+### Install IntelliJ Community Edition
+
+- We will be using IntelliJ for writing Code, and there are a number of helpful extensions that should be installed
+- [Download and Install IntelliJ Community Edition](https://www.jetbrains.com/idea/download/) - make sure it is Community Edition!
+- Once you install you can configure how you like
 - But there is an additional step below for adding in Scene Builder
-
-### Java 16
-
-- Once you have installed IntelliJ on your computer you can install Java 16 from inside IntelliJ
-- Simply create a new Java project from the project creation dialogue click the dropdown and choose to install Java 16 (if you don't already have it installed)
-- Here is a [simple video to show the step](https://www.jetbrains.com/idea/guide/tips/download-jdk/) 
+- When you open for the first time you may have two tell IntelliJ where Java 8 is located
 
 ### Install Scene Builder
 
@@ -56,3 +54,9 @@ There are two general options for getting Scene Builder. Option 1 will be the mo
 ## Git
 
 There is a lot of software available to assist in working with Git. Our use should be relatively straightforward and so the version built into IntelliJ will be the one that is supported for the course. See [Using Git](pages/../CS3035-assignments-with-git.md)
+
+## Why do Java Versions Matter
+
+Java is going through some rapid changes that have made things a little complicated. The purpose of this guide is to assist you in installing a version of Java and VS Code that will work on your personal system.
+
+One major challenge that has arisen is that beginning with Java 11, JavaFX is a separate download... getting Java 11 or later, and Java FX to work can be tough. So, we recommend using Oracle Java 8 on your personal computers, since it includes JavaFX.
