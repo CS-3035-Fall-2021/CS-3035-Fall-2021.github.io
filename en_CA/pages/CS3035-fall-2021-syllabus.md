@@ -23,26 +23,23 @@ This course is a complement to:
 
 ## Class Time and Location
 
-- **Class Time**: Tues. and Thurs. at 08:45AM-09:50AM
-- **Location**: On [Teams](https://teams.microsoft.com/l/channel/19%3a9e00c29c80774584bfd7136a652bb830%40thread.tacv2/Class%2520Meetings%2520(Tue%2520and%2520Thu%2520%2540%25208%253B45%2520to%25209%253B50am)?groupId=eb132915-269f-4304-ad54-5938ab0608a5&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7)
+- **Class Time**: 8:30am - 9:50am. Tuesday and Thursday. 
+- **Location**: Head Hall C11 and on [Teams]()
+- **Recordings**: on [Streams]
   
+Attendance in-person is strongly encouraged, but will always follow the [latest policies set by the University](https://www.unb.ca/coronavirus/students/returning/index.html). 
+
+### Recording of Class Time
+
+All in-person lectures will be broadcast and recorded, while this is done primarily for students who are unable to make it to class, all students will have access to these recordings. Tests will not be recorded. 
+
 ## Instructor and Contact
 
 - For more detail on Contact please see the [contact details on the course website](CS3035-fall-2020-course-activities.md).
-- **Instructor:** Dr. Scott Bateman
-- **Office:** @Home
-- **Office Hours:**
-  - Appointments are welcomed and encouraged, and can be set up via email. We should also have ample time to chat during class times, since lectures will be pre-recorded.
-- **Email:** scottb at sign unb.ca
-- **Web:** <http://hci.cs.unb.ca>
 
 ## Course Work and Marking Scheme (Tentative)
 
-- Individual Assignments (5): 40%
-- Mini-Project (1): 10%
-- Weekly Quizzes/Challenges (During class times) (~8-10): 20%
-- Tests (During class times) (2): 20%
-- Check-in/one-on-one evaluation: 10%
+See [course work details](CS3035-fall-2021-course-activities.md#Course_Work_Details).
 
 ## Text Books
 
@@ -80,7 +77,7 @@ See above (Late Assignments)
 
 ### Final Exam Scheduling
 
-There will be no "final exam" in this course. All activities will be completed during class time.  
+There will be a final test schedule by the university during the exam period. All activities will be completed during class time.  
 
 ### Missed Tests and Other In-Class Activities
 
