@@ -47,10 +47,10 @@ Tests will be longer than quizzes and are designed to test your understanding of
 | Date | Item  |
 |------|-------|
 | 09/27| Assignment #1 |
-| 10/11| Assignment #2 |
-| 10/18| Assignment #3 |
+| 10/15| Assignment #2 |
 | 10/19| Test #1 |
-| 11/01| Assignment #4 |
+| 10/29| Assignment #3 |
 | 11/01| Last Day to Withdraw|
+| 11/23| Assignment #4 |
 | 12/09| Last Class - Project Due |
 | TBA  | Test #2 - During Exam Period |
